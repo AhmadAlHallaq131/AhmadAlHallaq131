@@ -52,7 +52,6 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadalhallaq131&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadalhallaq131&theme=dark" alt="Streak Stats" />
     </td>
   </tr>
